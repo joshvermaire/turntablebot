@@ -1,6 +1,6 @@
 var Bot    = require('ttapi');
 var AUTH   = 'auth+live+ae8a604b1f77142d97ec7548ff12c5c75b2836f1';
-var USERID = '4f4d361c590ca26d6c000507';
+var USERID = '4f533573a3f751580f004897';
 var ROOMID = '4f4db9770c4cc87adc0cad76';
 
 var bot = new Bot(AUTH, USERID);
