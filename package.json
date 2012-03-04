@@ -2,7 +2,7 @@
   "name": "BrilliantTurntableBot",
   "version": "0.0.1",
   "dependencies": {
-    "ttapi": "1.2.1"
+    "ttapi": "1.2.1",
     "express" : ">0.0.1"
   }
 }
