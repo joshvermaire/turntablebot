@@ -1,0 +1,7 @@
+{
+  "name": "Brilliant Turntable Bot",
+  "version": "0.0.1",
+  "dependencies": {
+    "ttapi": "1.2.1"
+  }
+}
